@@ -19,16 +19,16 @@
 
 [![Build Status](https://travis-ci.org/apache/incubator-samoa.svg?branch=master)](https://travis-ci.org/apache/incubator-samoa)
 
-Apache SAMOA: Scalable Advanced Massive Online Analysis.
+SAMOA: Scalable Advanced Massive Online Analysis.
 =================
-Apache SAMOA is a platform for mining on big data streams.
+SAMOA is a platform for mining on big data streams.
 It is a distributed streaming machine learning (ML) framework that contains a 
 programing abstraction for distributed streaming ML algorithms.
 
-Apache SAMOA enables development of new ML algorithms without dealing with 
+SAMOA enables development of new ML algorithms without dealing with 
 the complexity of underlying streaming processing engines (SPE, such 
-as Apache Storm and Apache S4). Apache SAMOA also provides extensibility in integrating
-new SPEs into the framework. These features allow Apache SAMOA users to develop 
+as Apache Storm and Apache S4). SAMOA also provides extensibility in integrating
+new SPEs into the framework. These features allow SAMOA users to develop 
 distributed streaming ML algorithms once and to execute the algorithms 
 in multiple SPEs, i.e., code the algorithms once and execute them in multiple SPEs.
 
