@@ -22,6 +22,7 @@
 SAMOA: Scalable Advanced Massive Online Analysis.
 =================
 [http://s4moa.github.io/samoa/](http://s4moa.github.io/samoa/)
+
 SAMOA is a platform for mining on big data streams.
 It is a distributed streaming machine learning (ML) framework that contains a 
 programing abstraction for distributed streaming ML algorithms.
